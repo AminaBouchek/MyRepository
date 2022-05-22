@@ -31,10 +31,5 @@ git status
 #commit
 git commit -m "my first commit"
 
-
-
-
-
-
-
-
+#first push from
+git push --set-upstream origin Lab
