@@ -31,3 +31,4 @@ create new user:
     - add the password to the file "pgbouncer.ini"  
     - browse to /etc/postgresql/12/main/
     - add the new user to the file pg_hba.conf
+    - restart services: sudo service postgresql restart)
